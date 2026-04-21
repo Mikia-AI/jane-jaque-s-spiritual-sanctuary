@@ -34,12 +34,12 @@ const About = () => {
           <p>
             Jeg møder dig med åbenhed, ærlighed og omsorg. Efter en konsultation er det vigtigt for mig, at du går ud af døren med håb for fremtiden og gode lavpraktiske redskaber.
           </p>
-          <p className="mt-6">
-            Jeg afslutter min uddannelse som clairvoyant i maj 2026. Herefter stiger prisen for en konsultation.
-          </p>
-
           <p className="mb-6">
             Jeg opdagende mine clairvoyante evner ved et tilfælde. Troede bare, jeg var en rigtig god menneskekender. Nu har jeg lært at skelne imellem den lange relationelle viden og erfaring, jeg har gjort mig og mine stærke clairvoyante evner. De clairvoyante evner viser sig ved, de særlige kendetegn der gør hvert menneske sit helt eget i kraft af deres levede liv og de ønsker de har for fremtiden.
+          </p>
+
+          <p className="mt-6">
+            Jeg afslutter min uddannelse som clairvoyant i maj 2026. Herefter stiger prisen for en konsultation.
           </p>
         </div>
       </div>
