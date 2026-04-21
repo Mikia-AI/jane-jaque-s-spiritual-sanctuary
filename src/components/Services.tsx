@@ -8,17 +8,10 @@ const services = [
   },
   {
     title: "Forældre-barn relation",
-    desc: "Clairvoyant vejledning med fokus på forældre-barn relationen og familiens dynamik.",
+    desc: "Jeg stiller clairvoyant ind på din relation til dit barn med henblik på, at give dig redskaber til at komme videre i livet.",
     duration: "45 min",
     price: "499 kr.",
     icon: "❋",
-  },
-  {
-    title: "Dybdegående forældre-barn",
-    desc: "Jeg stiller ind på barnet via forældre — en dybere session med udvidet tid.",
-    duration: "60 min",
-    price: "600 kr.",
-    icon: "✧",
   },
   {
     title: "Afdødekontakt",
