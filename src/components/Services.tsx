@@ -29,7 +29,7 @@ const services = [
   },
   {
     title: "Karmasitting",
-    desc: "Jeg kigger på dine tidligere liv, der påvirker dine nuværende udfordringer.",
+    desc: "Ved en karmasitting stiller jeg clairvoyant ind på episoder i dine tidligere liv. Med en karmasitting kan du få flashbask til episoder, der tidligere har defineret dit liv og som påvirker dig i dag. Det kan være en meget dybegående og indsigtsfuld oplevelse.",
     duration: "45 min",
     price: "499 kr.",
     icon: "∞",
