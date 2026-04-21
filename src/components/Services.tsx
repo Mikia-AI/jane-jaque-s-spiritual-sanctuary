@@ -1,7 +1,7 @@
 const services = [
   {
     title: "Clairvoyantvejledning",
-    desc: "I København eller online. Jeg stiller ind på dig og giver dig budskaber og redskaber til et bedre liv.",
+    desc: "Jeg tilbyder clairvoyant vejledning. Jeg ser dig og det du står i lige nu. Du er velkommen til at medbringe dine spørgsmål, så du kan få svar på det, du tumler med lige nu. Så du kan gå trygt ud i livet igen med mere klarhed. Konsultationer tilbydes i rolige omgivelser ved personligt fremmøde i København Sv. eller online via messenger, hvis du befinder dig længere væk.",
     duration: "45 min",
     price: "499 kr.",
     icon: "✦",
