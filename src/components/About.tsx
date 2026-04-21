@@ -34,6 +34,9 @@ const About = () => {
           <p>
             Jeg møder dig med åbenhed, ærlighed og omsorg. Efter en konsultation er det vigtigt for mig, at du går ud af døren med håb for fremtiden og gode lavpraktiske redskaber.
           </p>
+          <p className="mt-6 text-accent font-medium">
+            Jeg afslutter min uddannelse som clairvoyant i maj 2026. Herefter stiger prisen for en konsultation.
+          </p>
         </div>
       </div>
     </section>
