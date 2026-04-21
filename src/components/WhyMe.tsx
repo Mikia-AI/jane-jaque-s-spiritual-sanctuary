@@ -9,7 +9,7 @@ const whyItems = [
   },
   {
     title: "Etik under clairvoyancen",
-    text: "Jeg forudser ikke død eller sygdom. Fokus er på konstruktive budskaber. Jeg har tavshedspligt og værner om respekt.",
+    text: "Jeg forudser ikke død eller sygdom. Fokus er på konstruktive budskaber. Jeg har tavshedspligt og jeg værner om fortroligheden i samtalen.",
   },
 ];
 
