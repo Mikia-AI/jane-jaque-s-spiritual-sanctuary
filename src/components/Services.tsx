@@ -23,7 +23,7 @@ const services = [
   {
     title: "Afdødekontakt",
     desc: "Kontakt med afdøde kære i et trygt og respektfuldt rum.",
-    duration: "45 min",
+    duration: "",
     price: "499 kr.",
     icon: "☽",
   },
@@ -71,9 +71,13 @@ const Services = () => {
                 {s.desc}
               </p>
               <div className="flex items-center justify-between pt-4 border-t border-border">
-                <span className="font-body text-xs text-muted-foreground tracking-wide">
-                  {s.duration}
-                </span>
+                {s.duration ? (
+                  <span className="font-body text-xs text-muted-foreground tracking-wide">
+                    {s.duration}
+                  </span>
+                ) : (
+                  <span />
+                )}
                 <span className="font-heading text-lg font-semibold text-accent">
                   {s.price}
                 </span>
