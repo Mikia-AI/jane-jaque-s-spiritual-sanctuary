@@ -22,7 +22,7 @@ const services = [
   },
   {
     title: "Chakra-clairvoyance",
-    desc: "Clairvoyance med afsæt i dine chakraer for dybere selvindsigt.",
+    desc: "Ved en chakra-clairvoyance stilles der ind på dine chakraer i kroppen. Jeg stiller ind på hvordan der kan arbejdes med at skabe mere balance i krop og sjæl.",
     duration: "45 min",
     price: "499 kr.",
     icon: "◎",
