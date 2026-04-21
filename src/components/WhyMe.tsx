@@ -1,7 +1,7 @@
 const whyItems = [
   {
     title: "Personlig opmærksomhed",
-    text: "Du har min fulde opmærksomhed i en dedikeret konsultation. De clairvoyante budskaber er specifikt rettet til at hjælpe dig.",
+    text: "Du har min fulde opmærksomhed i en dedikeret konsultation. De clairvoyante budskaber er specifikt rettet til at hjælpe dig. Du er meget velkommen til at medbringe dine egne spørgsmål eller livstemaer, så ser vi sammen på dem.",
   },
   {
     title: "Tillid i et fortroligt rum",
