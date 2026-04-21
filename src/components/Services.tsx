@@ -22,7 +22,7 @@ const services = [
   },
   {
     title: "Afdødekontakt",
-    desc: "Kontakt med afdøde kære i et trygt og respektfuldt rum.",
+    desc: "Som clairvoyant stiller jeg ind på den afdøde, du ønsker at komme i kontakt med. Jeg skaber et trygt og respektfuldt rum for mødet og dialog. Du er meget velkommen til at medbringe dine egne spørgsmål.",
     duration: "",
     price: "499 kr.",
     icon: "☽",
