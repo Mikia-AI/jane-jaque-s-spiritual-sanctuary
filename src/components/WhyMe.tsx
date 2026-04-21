@@ -26,7 +26,7 @@ const WhyMe = () => {
           </h2>
           <div className="w-16 h-0.5 bg-accent mx-auto mb-8" />
           <p className="font-body text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Jeg har meget stærke clairvoyante evner og mere end 30 års erfaring i at arbejde med menneskelige relationer. Min akademiske tilgang gør mig til en kritisk analytiker, der hjælper dig med at se nye vinkler og nuancer.
+            Jeg har meget stærke clairvoyante evner og mere end 30 års erfaring i at arbejde med menneskelige relationer. Min akademiske tilgang gør mig til en kritisk analytiker, der hjælper dig med at se nye vinkler og nuancer. Jeg er ærlig men omsorgsfuld.
           </p>
         </div>
 
