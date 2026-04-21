@@ -26,7 +26,7 @@ const About = () => {
           </div>
 
           <p className="mb-6">
-            Jeg har passeret de 50 år og har opbygget årtiers erfaring i at vejlede, støtte og rådgive børn, unge samt deres forældre. I mit arbejdsliv har jeg været pædagog, rådgiver, leder og har arbejdet med forskning.
+            Jeg har passeret de 50 år og har opbygget årtiers erfaring i at vejlede, støtte og rådgive børn, unge samt deres forældre. I mit arbejdsliv har jeg været pædagog, rådgiver, leder og jeg har arbejdet med forskning.
           </p>
           <p className="mb-6">
             Jeg har et kritisk analytisk blik qua min akademiske uddannelse, og da jeg ved et tilfælde blev bekendt med mine clairvoyante evner, lærte jeg at træne dem med henblik på at se det enkelte menneske der, hvor det befinder sig lige nu.
