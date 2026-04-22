@@ -1,3 +1,5 @@
+import konsultationRum from "@/assets/konsultation-rum.jpeg";
+
 const services = [
   {
     title: "Clairvoyantvejledning",
