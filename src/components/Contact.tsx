@@ -26,7 +26,7 @@ const Contact = () => {
             </h2>
             <div className="w-16 h-0.5 bg-accent mx-auto mb-6" />
             <p className="font-body text-muted-foreground">
-              Jeg vender straks tilbage med en tid.
+              Har du spørgsmål til konsultationer/arrangementer eller vil du booke en konsultation, så skriv til mig her, så vender jeg snarest tilbage – Jane
             </p>
           </div>
 
