@@ -34,6 +34,13 @@ const services = [
     price: "499 kr.",
     icon: "∞",
   },
+  {
+    title: "Venindeaften / polterabend / foredrag",
+    desc: "Jeg afholder også spirituelle arrangementer og foredrag for mindre grupper. Kontakt mig gerne, så vi kan aftale indhold og pris.",
+    duration: "",
+    price: "Kontakt",
+    icon: "✺",
+  },
 ];
 
 const Services = () => {
@@ -79,17 +86,6 @@ const Services = () => {
           ))}
         </div>
 
-        <div className="max-w-3xl mx-auto mt-12">
-          <div className="group bg-card rounded-xl p-8 border border-border hover:border-accent/40 transition-all duration-500 hover:shadow-lg hover:-translate-y-1">
-            <span className="text-3xl text-accent mb-4 block">✺</span>
-            <h3 className="font-heading text-xl font-semibold text-foreground mb-3">
-              Venindeaften / polterabend / foredrag
-            </h3>
-            <p className="font-body text-sm text-muted-foreground leading-relaxed">
-              Jeg afholder også spirituelle arrangementer og foredrag for mindre grupper. Kontakt mig gerne, så vi kan aftale indhold og pris.
-            </p>
-          </div>
-        </div>
       </div>
     </section>
   );
