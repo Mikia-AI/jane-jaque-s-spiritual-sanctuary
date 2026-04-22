@@ -29,6 +29,11 @@ const testimonials = [
     name: "Susanne",
     location: "København",
   },
+  {
+    text: "Udelukkende specifikke beskeder, som kun kunne passe på mig. Føler mig dybt ramt og har fået årsager beskrevet 100% præcist og jeg ved med sikkerhed, hvad jeg kan gøre for at komme videre på bedst mulig måde. En helt igennem stærk og tryg oplevelse.",
+    name: "Eileen B.",
+    location: "Ølstykke",
+  },
 ];
 
 const Testimonials = () => {
