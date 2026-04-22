@@ -78,7 +78,7 @@
   }
 
   .bg-gradient-mystical {
-    background: linear-gradient(180deg, hsl(220 45% 15%) 0%, hsl(220 35% 25%) 50%, hsl(230 30% 20%) 100%);
+    background: linear-gradient(180deg, hsl(220 35% 30%) 0%, hsl(220 30% 42%) 50%, hsl(230 28% 36%) 100%);
   }
 
   .bg-gradient-warm {
