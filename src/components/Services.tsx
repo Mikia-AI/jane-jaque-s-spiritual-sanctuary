@@ -1,3 +1,5 @@
+import konsultationRum from "@/assets/konsultation-rum.jpeg";
+
 const services = [
   {
     title: "Clairvoyantvejledning",
@@ -84,6 +86,17 @@ const Services = () => {
               </div>
             </div>
           ))}
+        </div>
+
+        <div className="max-w-3xl mx-auto mt-16">
+          <div className="overflow-hidden rounded-xl shadow-lg border border-border">
+            <img
+              src={konsultationRum}
+              alt="Roligt konsultationsrum med lænestol, levende lys og blomster"
+              loading="lazy"
+              className="w-full h-auto object-cover"
+            />
+          </div>
         </div>
 
       </div>
