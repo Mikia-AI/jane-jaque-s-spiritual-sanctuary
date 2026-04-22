@@ -34,6 +34,13 @@ const services = [
     price: "499 kr.",
     icon: "∞",
   },
+  {
+    title: "Venindeaften / polterabend / foredrag",
+    desc: "Jeg afholder også spirituelle arrangementer og foredrag for mindre grupper. Kontakt mig gerne, så vi kan aftale indhold og pris.",
+    duration: "",
+    price: "Kontakt",
+    icon: "✺",
+  },
 ];
 
 const Services = () => {
